@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Content 4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-01 14:47+0100\n"
+"PO-Revision-Date: 2014-03-13 13:03+0100\n"
+"Last-Translator: Joan Guillén i Pelegay <jguille2@xtec.cat>\n"
+"Language-Team: Intraweb <intraweb@xtec.cat>\n"
+"Language: ca_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: javascript/ajax.js:219 javascript/ajax.js:305
+msgid "Inactive"
+msgstr "Inactiu"
+
+#: javascript/ajax.js:219
+msgid "Active"
+msgstr "Actiu"
+
+#: javascript/ajax.js:262
+msgid "Out"
+msgstr "Fora"
+
+#: javascript/ajax.js:262
+msgid "In"
+msgstr "Dins"
